@@ -1,0 +1,16 @@
+img {
+    width: 50px; 
+    height: 50px; 
+    float: left; 
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+.product {
+    float: left;
+    margin-top: 30px;
+}
+
+.cierre {
+    clear: both;
+}
